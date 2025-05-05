@@ -14,11 +14,11 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true)
   const [bubbles, setBubbles] = useState([])
   const [showForYouBtn, setShowForYouBtn] = useState(false)
-  const birthdayDate = new Date("April 28, 2025") // Change this date accordingly
+  const birthdayDate = new Date("May 06, 2025") // Change this date accordingly
   const audioRef = useRef(null)
 
   // For testing
-  // const birthdayDate = new Date("2025-04-23T22:03:00+05:30")
+  // const birthdayDate = new Date("2025-05-06T00:00:00")
 
   useEffect(() => {
     setTimeout(() => {
