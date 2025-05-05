@@ -90,7 +90,8 @@ export default function BirthdayCelebration() {
                 <p className="text-purple-700 mb-2">
                 I was lost in the darkest parts of myself, unwilling to be saved. Then you came along—and everything changed.
                 </p>
-                <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
+                <p className="text-pink-600 font-medium">I wish I could be with you today, but distance got in the way. No matter what, we’ll always be together. I could never give up on you.
+Love you, baby❣️</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
@@ -118,7 +119,7 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
+          May every wish you make today or everday comes true. I’ll always be here to make your all your wishes come True .
           </p>
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
