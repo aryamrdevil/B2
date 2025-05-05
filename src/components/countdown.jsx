@@ -20,7 +20,7 @@ function calculateTimeLeft(targetDate) {
   return timeLeft
 }
 
-export default function Countdown({ "2025-05-06T00:00:00" onCountdownEnd }) {
+export default function Countdown({ targetDate={new Date("2025-12-25T00:00:00")}, onCountdownEnd }) {
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft(targetDate))
 
   useEffect(() => {
