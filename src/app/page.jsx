@@ -18,7 +18,7 @@ export default function Home() {
   const audioRef = useRef(null)
 
   // For testing
-  // const birthdayDate = new Date("2025-05-06T00:00:00")
+  // const birthdayDate = new Date("2025-05-06T00:20:00")
 
   useEffect(() => {
     setTimeout(() => {
