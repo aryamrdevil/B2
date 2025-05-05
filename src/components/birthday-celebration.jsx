@@ -119,7 +119,7 @@ Love you, baby❣️</p>
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today or everday comes true. I’ll always be here to make your all your wishes come True .
+          May every wish you make today or everyday comes true. I’ll always be here to make your all wishes come True .
           </p>
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
